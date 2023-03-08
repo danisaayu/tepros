@@ -115,6 +115,8 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"/Applications/Unity/Hub/Editor/2021.3.17f1/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"/Applications/Unity/Hub/Editor/2021.3.17f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -319,8 +321,8 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
--r:"/Users/macbook/Documents/TEPROS/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
--r:"/Users/macbook/Documents/TEPROS/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"/Users/macbook/Documents/tepros/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"/Users/macbook/Documents/tepros/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.Analytics.ref.dll"
@@ -342,10 +344,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/efektombol.cs"
+"Assets/Script/efektombol.cs"
+"Assets/Script/tombol 1 - Copy.cs"
 "Assets/Script/tombol 1.cs"
-"Assets/tombol 1.cs"
-"Assets/tombol 2.cs"
+"Assets/Script/tombol 2.cs"
 -langversion:9.0
 
 /deterministic

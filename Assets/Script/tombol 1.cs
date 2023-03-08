@@ -23,7 +23,7 @@ public class tombol : MonoBehaviour
 
     void OnMouseUp() 
     {
-    	Application.LoadLevel ("halaman 2"); 
+    	Application.LoadLevel ("menu"); 
 
     }
 
