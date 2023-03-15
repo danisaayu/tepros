@@ -6,9 +6,81 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/home.unity
+    path: Assets/Scene/HOME.unity
     guid: c626da1e8bbf24ebd8f1954bd7287b60
   - enabled: 1
-    path: Assets/Scene/menu.unity
+    path: Assets/Scene/MENU.unity
     guid: c95b8b2732ed04081bb7663a70cbe3c3
+  - enabled: 1
+    path: Assets/Scene/cp 2.unity
+    guid: e1b6fc2720f1443b3a9cc4d77724d482
+  - enabled: 1
+    path: Assets/Scene/CP.unity
+    guid: ad607bc04f55143a89bd0e42c2155eea
+  - enabled: 1
+    path: Assets/Scene/EVAL.unity
+    guid: aba72cadb3cfd4a27bcf2f2387391e54
+  - enabled: 1
+    path: Assets/Scene/eval2.unity
+    guid: 49657833479b44fb4b5f0f13cc2b50aa
+  - enabled: 1
+    path: Assets/Scene/nilai.unity
+    guid: c772379bc9fd44b8fa223f77bacbed50
+  - enabled: 1
+    path: Assets/Scene/eval3.unity
+    guid: d6b500e5061d64b38ba8986cd740efa5
+  - enabled: 1
+    path: Assets/Scene/eval4.unity
+    guid: eb63b1ceea3c34b889fddce2fa6206ce
+  - enabled: 1
+    path: Assets/Scene/eval5.unity
+    guid: be3c050a805d14507a8e9e1feac4bd22
+  - enabled: 1
+    path: Assets/Scene/eval6.unity
+    guid: c3fae7f16d5ef40d9aa10d07cbc86029
+  - enabled: 1
+    path: Assets/Scene/eval7.unity
+    guid: 1545e3208343746f9af336b38131a66e
+  - enabled: 1
+    path: Assets/Scene/eval8.unity
+    guid: fa3f4d01ec3274a98b8b0913d436b479
+  - enabled: 1
+    path: Assets/Scene/eval9.unity
+    guid: cd014a5beffc1467da458113af79ed4c
+  - enabled: 1
+    path: Assets/Scene/eval10.unity
+    guid: 05ad37480a89c4ee3ac586e4ca7687b2
+  - enabled: 1
+    path: Assets/Scene/eval11.unity
+    guid: 3f1c342f7b1f544ed88d3ec47ae26392
+  - enabled: 1
+    path: Assets/Scene/GAME.unity
+    guid: 59ea70ddda0dd46bc9bdbe8b55f49753
+  - enabled: 1
+    path: Assets/Scene/level1.unity
+    guid: 8cd9d3f4445724dacb17cf308a581a77
+  - enabled: 1
+    path: Assets/Scene/INFORMASI.unity
+    guid: c606e68a3168f4dac8acbbfa115424b6
+  - enabled: 1
+    path: Assets/Scene/Level2.unity
+    guid: efdd70f15b6d4480e86a60c20bcbe686
+  - enabled: 1
+    path: Assets/Scene/MATERI.unity
+    guid: c29154d38bed34ef8badc919f53fc9ce
+  - enabled: 1
+    path: Assets/Scene/materi2.unity
+    guid: 0d3174d714b1943e39e35dfa751ea691
+  - enabled: 1
+    path: Assets/Scene/materi3.unity
+    guid: 25b05e40571fb411e93e5ac736e94541
+  - enabled: 1
+    path: Assets/Scene/materi4.unity
+    guid: f3362d85037b14dc7b012025ca91c34e
+  - enabled: 1
+    path: Assets/Scene/materi5.unity
+    guid: 728ac42cd660b4439ac4cab68361925f
+  - enabled: 1
+    path: Assets/Scene/Materi6.unity
+    guid: cd1bd7221930e4f5db25b7c30281189b
   m_configObjects: {}
